@@ -12,7 +12,7 @@ const users = [
     ativo: false
   }
 ]
-
+//
 const typeDefs = [userSchema]
 const resolvers = {}
 
